@@ -1,3 +1,4 @@
 # LetsUpgrade_Data-Science-Essentials
-Python programming
-Lets Upgrade's Data science program
+Lets Upgrade's Data science program with python
+
+Thank you Lets Upgrade!
