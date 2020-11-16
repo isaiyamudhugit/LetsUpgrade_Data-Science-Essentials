@@ -1,3 +1,3 @@
 # LetsUpgrade_Data-Science-Essentials
 Python programming
-#For assignments
+Lets Upgrade's Data science program
